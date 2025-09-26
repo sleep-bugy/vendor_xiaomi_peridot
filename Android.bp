@@ -4,6 +4,7 @@
 
 soong_namespace {
     imports: [
+        "device/xiaomi/peridot",
         "hardware/qcom-caf/sm8650",
         "hardware/qcom-caf/wlan",
         "hardware/xiaomi",
@@ -31222,7 +31223,7 @@ cc_prebuilt_library_shared {
                 "libmialgoengine",
                 "libsync",
                 "libutils",
-                "libui",
+                "libui-v34",
                 "libhidlbase",
                 "libprocessgroup",
                 "libcom.xiaomi.attribute",
