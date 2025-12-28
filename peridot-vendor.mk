@@ -1268,7 +1268,6 @@ PRODUCT_PACKAGES += \
     libcppbor_peridot \
     libcustomva_intf \
     libcv_common \
-    libdapparamstorage \
     libdataitems \
     libdeccfg \
     libdfintf \
@@ -1579,7 +1578,6 @@ PRODUCT_PACKAGES += \
     libsnsdiaglog \
     libsnsutils \
     libsoc_helper \
-    libspatializerparamstorage \
     libspcom \
     libspl \
     libsplh \
@@ -1646,7 +1644,6 @@ PRODUCT_PACKAGES += \
     libwms \
     libwqe \
     libxiaomi_qcril \
-    libxiaomi_qmi \
     libxlog \
     libxml \
     libxtadapter \
